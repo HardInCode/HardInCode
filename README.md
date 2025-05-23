@@ -1,5 +1,3 @@
-# Hello World! I'm Hardin
-
 ![Hardin Irfan](img/github-header-image.png)
 
 ## 🌐 Socials:
