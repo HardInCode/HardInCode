@@ -3,7 +3,7 @@
 ![Hardin Irfan](img/github-header-image.png)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,nextjs,react,py,django,php,laravel,mysql,github,vscode,docker,blender,unity,ubuntu&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nextjs,react,py,django,php,laravel,mysql,blender,unity,ubuntu&theme=light)](https://skillicons.dev)
 
 
 <!--
