@@ -1,6 +1,10 @@
-## Hello World! I'm Hardin Irfan 👋
+## Hello World!👋 I'm Hardin Irfan 
 
 ![Hardin Irfan](img/github-header-image.png)
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,nextjs,react,py,django,php,laravel,mysql,github,vscode,docker,blender,unity,ubuntu&theme=light)](https://skillicons.dev)
+
 
 <!--
 **HardInCode/HardInCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
