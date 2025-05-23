@@ -55,7 +55,6 @@
 
 ###
 
-## 🌐 Socials:
 
 <div align="left">
   <a href="https://instagram.com/hrdin03" target="_blank">
