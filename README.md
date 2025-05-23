@@ -1,4 +1,4 @@
-## Hello World! I'm Hardin Irfan 👋
+## Hello World!👋 I'm Hardin Irfan 
 
 ![Hardin Irfan](img/github-header-image.png)
 
