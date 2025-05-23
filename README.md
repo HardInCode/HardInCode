@@ -6,6 +6,8 @@
 
 ###
 
+## 💻 Tech Stack:
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -30,6 +32,8 @@
 
 ###
 
+## 🌐 Socials:
+
 <div align="left">
   <a href="https://instagram.com/hrdin03" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
@@ -46,3 +50,5 @@
 <img src="https://raw.githubusercontent.com/HardInCode/HardInCode/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
